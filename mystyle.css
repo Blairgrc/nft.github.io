@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+
+
+body {
+    background-color: #b362ef;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Tangerine', serif;
+    font-size: 98px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+h2 {
+    font-family: 'Gentium Plus', serif;
+    font-family: 'Love Ya Like A Sister', cursive;
+    margin: 0;
+}
+
+h3 {
+     font-family: 'Times New Roman', serif;
+    font-size: 28px;
+    
+}
+
+p {
+
+    font-family: 'Black Ops One', cursive;
+    font-size: 54px;
+}
+
+
+
+.row{
+    padding: 15px;
+    height: 300px;
+    width: 100%;    
+}
+
+.p-2 {
+    width: 600px;
+}
+
+
+
+
+
+
+
+
+
+.footer {                             /* Comemnt out */
+    text-align: center;
+    
+}
+
+
